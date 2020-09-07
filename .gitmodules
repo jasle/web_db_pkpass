@@ -1,0 +1,3 @@
+[submodule "bahnapi"]
+	path = bahnapi
+	url = https://github.com/jasle/fahrgastrechte-autofill
